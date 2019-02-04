@@ -1,5 +1,5 @@
 # fsviewer
-fsviewer is a utility that allows you to graphically see how you filesystem (only FAT16 and NTFS is supported) allocates disk space to files on your disk.
+fsviewer is a utility that allows you to graphically see how you filesystem (only FAT16 and NTFS are supported) allocates disk space to files on your disk.
 
 ## Requirements
 
